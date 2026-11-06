@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "dsh-plugin-cue",
+    "description": "Plays a soft rising two-note cue when an agent finishes its turn, and a brighter three-note alert while an approval or question waits for your decision."
+  }
+}
